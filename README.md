@@ -11,7 +11,7 @@ A ReactJS TripAdvisor Clone Web App made with the RapidAPI's TravelAdvisor API a
   </a>
 </p>
 
-### ✨ [Live Preview]()
+### ✨ [Live Preview](chucklengo.vercel.app)
 
 ## Install
 Run the Command to Install all dependencies.
