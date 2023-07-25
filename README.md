@@ -43,7 +43,7 @@ Your project should start running on `http://localhost:3000`
 
 ## Author
 
-👤 **Olabode Lawal-Shittabey**
+👤 **Sifuna*
 
 * Twitter: [@]()
 * LinkedIn: [@]()
