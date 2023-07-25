@@ -10,7 +10,7 @@ const Footer = () => {
                             <img src={icon} alt="" className="h-10 w-10" />
                             <div className="w-fit">
                                 <p className="text-xs">
-                                    © 2022 TravelAdvisor LLC All rights reserved.
+                                    © 2023 Chuckle n Go LLC All rights reserved.
                                 </p>
                                 <div className="flex flex-wrap">
                                     {["Terms of Use", "Privacy and Cookies Statement", "Cookie consent", "Site Map", "How the site works"].map((item, i) => (
