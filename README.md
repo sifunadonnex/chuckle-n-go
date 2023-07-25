@@ -45,7 +45,7 @@ Your project should start running on `http://localhost:3000`
 
 👤 **Sifuna*
 
-* Twitter: [@]()
+* Twitter: [@](sifunado)
 * LinkedIn: [@]()
 * Instagram: [@]()
 
