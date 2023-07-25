@@ -1,0 +1,231 @@
+[
+    {
+      "location_id": "14005099",
+      "name": "Java House Greenspan Mall",
+      "latitude": "-1.289214",
+      "longitude": "36.900925",
+      "num_reviews": "5",
+      "timezone": "Africa/Nairobi",
+      "location_string": "Kahawa, Nairobi Region",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "150",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-l/14/f1/2f/73/best-coffee.jpg",
+            "height": "150"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/14/f1/2f/73/best-coffee.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "1280",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/14/f1/2f/73/best-coffee.jpg",
+            "height": "960"
+          },
+          "large": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/14/f1/2f/73/best-coffee.jpg",
+            "height": "413"
+          },
+          "medium": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/14/f1/2f/73/best-coffee.jpg",
+            "height": "188"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2018-10-05T04:21:18-0400",
+        "caption": "best coffee",
+        "id": "351350643",
+        "helpful_votes": "1",
+        "published_date": "2018-10-05T04:21:18-0400",
+        "user": {
+          "user_id": null,
+          "member_id": "0",
+          "type": "user"
+        }
+      },
+      "awards": [],
+      "doubleclick_zone": "af.kenya",
+      "preferred_map_engine": "default",
+      "raw_ranking": "3.0770115852355957",
+      "ranking_geo": "Kahawa",
+      "ranking_geo_id": "12559861",
+      "ranking_position": "1",
+      "ranking_denominator": "2",
+      "ranking_category": "restaurant",
+      "ranking": "#1 of 2 Restaurants in Kahawa",
+      "distance": "3.3641834463314066",
+      "distance_string": "3.4 km",
+      "bearing": "southwest",
+      "rating": "4.0",
+      "is_closed": false,
+      "open_now_text": "Open Now",
+      "is_long_closed": false,
+      "price_level": "$",
+      "price": "$150 - $1,200",
+      "description": "",
+      "web_url": "https://www.tripadvisor.com/Restaurant_Review-g12559861-d14005099-Reviews-Java_House_Greenspan_Mall-Kahawa_Nairobi_Region.html",
+      "write_review": "https://www.tripadvisor.com/UserReview-g12559861-d14005099-Java_House_Greenspan_Mall-Kahawa_Nairobi_Region.html",
+      "ancestors": [
+        {
+          "subcategory": [
+            {
+              "key": "city",
+              "name": "City"
+            }
+          ],
+          "name": "Kahawa",
+          "abbrv": null,
+          "location_id": "12559861"
+        },
+        {
+          "subcategory": [
+            {
+              "key": "district",
+              "name": "District"
+            }
+          ],
+          "name": "Nairobi Region",
+          "abbrv": null,
+          "location_id": "3688711"
+        },
+        {
+          "subcategory": [
+            {
+              "key": "country",
+              "name": "Country"
+            }
+          ],
+          "name": "Kenya",
+          "abbrv": null,
+          "location_id": "294206"
+        }
+      ],
+      "category": {
+        "key": "restaurant",
+        "name": "Restaurant"
+      },
+      "subcategory": [
+        {
+          "key": "cafe",
+          "name": "Café"
+        }
+      ],
+      "parent_display_name": "Kahawa",
+      "is_jfy_enabled": false,
+      "nearest_metro_station": [],
+      "reviews": [
+        {
+          "id": "709531601",
+          "lang": null,
+          "location_id": "0",
+          "published_date": "2023-07-12T03:21:19-04:00",
+          "published_platform": "Desktop",
+          "rating": "4",
+          "type": "review",
+          "helpful_votes": "0",
+          "url": "https://www.tripadvisor.com/ShowUserReviews?src=709531601#review709531601",
+          "travel_date": null,
+          "text": null,
+          "user": null,
+          "title": "Meeting friends",
+          "owner_response": null,
+          "subratings": [],
+          "machine_translated": false,
+          "machine_translatable": false
+        }
+      ],
+      "phone": "+254 702 278252",
+      "website": "http://www.javahouseafrica.com",
+      "email": "guest.relations@javahouseafrica.com",
+      "address_obj": {
+        "street1": "Savannah Rd",
+        "street2": "Greenspan Mall",
+        "city": "Kahawa",
+        "state": null,
+        "country": "Kenya",
+        "postalcode": "00505"
+      },
+      "address": "Savannah Rd Greenspan Mall, Kahawa 00505 Kenya",
+      "hours": {
+        "week_ranges": [
+          [
+            {
+              "open_time": 480,
+              "close_time": 1260
+            }
+          ],
+          [
+            {
+              "open_time": 480,
+              "close_time": 1260
+            }
+          ],
+          [
+            {
+              "open_time": 480,
+              "close_time": 1260
+            }
+          ],
+          [
+            {
+              "open_time": 480,
+              "close_time": 1260
+            }
+          ],
+          [
+            {
+              "open_time": 480,
+              "close_time": 1260
+            }
+          ],
+          [
+            {
+              "open_time": 390,
+              "close_time": 1320
+            }
+          ],
+          [
+            {
+              "open_time": 390,
+              "close_time": 1320
+            }
+          ]
+        ],
+        "timezone": "Africa/Nairobi"
+      },
+      "is_candidate_for_contact_info_suppression": false,
+      "cuisine": [
+        {
+          "key": "10622",
+          "name": "Caribbean"
+        },
+        {
+          "key": "10632",
+          "name": "African"
+        },
+        {
+          "key": "10642",
+          "name": "Cafe"
+        },
+        {
+          "key": "10646",
+          "name": "Fast Food"
+        },
+        {
+          "key": "10676",
+          "name": "Diner"
+        }
+      ],
+      "dietary_restrictions": [],
+      "establishment_types": [
+        {
+          "key": "10591",
+          "name": "Restaurants"
+        }
+      ]
+    }
+  ]
